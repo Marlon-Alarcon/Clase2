@@ -14,4 +14,7 @@ persona = {
 }
 
 print(persona["salarial"])
-print (f"nombre: {persona["datospersonales"]}")
+print (f"Nombre: {persona ['datospersonales']['nombre']})
+
+if __name__ == "__main__":
+    main()
