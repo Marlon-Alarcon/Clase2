@@ -4,8 +4,8 @@ def main():
     #aplicacion de los diccionarios
 
     # persona = {
-    #     "nombre": "Geraldine",
-    #     "apellidos": "Suarez Solano",
+    #     "nombre": "Marlon",
+    #     "apellidos": "Alarcon",
     #     "edad": 22
     # }
     #print (persona["nombre"]+" "+ persona["apellidos"])
